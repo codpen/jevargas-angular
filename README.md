@@ -50,6 +50,3 @@ Scaffold  | Usage
 [Module](https://github.com/angular/angular-cli/wiki/generate-module)       | `ng g module my-module`
 
 
-## Further help
-
-rmkoszalka@gmail.com
